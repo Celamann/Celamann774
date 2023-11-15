@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Rivera",
+  "age": 37,
+  "address": {
+    "street": "Firzi Pass",
+    "city": "Udzohe",
+    "state": "RI",
+    "zip": "70040"
+  },
+  "contact": {
+    "phone": "(581) 662-3022",
+    "servicePhone": "800364154"
+  },
+  "birthday": "1982-02-08T00:21:07.511Z",
+  "ip": "162.36.162.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahsi bevaz ajicuju fifez gaha paiv licve sohajor pobu zepa ulba visbekwas me. Decke mecujaru husnuli haw bajeflep egomig wa nuk kubfahsam laho rahboctok wel. Fanepap takew apogioh ebevuru hukka cevvol wiwouti biwamdoj pijizfuc howba zezef dafvamdu tosdu wiwhecze wutaldaf kavit.",
+    "bio": "Aveok icubuca forjow soz nuj ma sosza go ozitiksav meof dotuzu il sumpa laub lag tat ofsaw duglow. Cu lu hobupav cig boolu olhabbu be oleodo apufuvav sowef tufufegez valomu sor re velunko ec. Kaiz duma ez zaffu co ma cin ulbo guz hihbep vehzobas apiejonu kuwebrot zivu voukedo."
+  },
+  "apiKey": "8d99549aa7c68fe431528606cb634eb41e4c425d36cdd09083515a4ecf3c9fea",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
