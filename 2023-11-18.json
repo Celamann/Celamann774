@@ -1,0 +1,26 @@
+{
+  "name": "Alma Robertson",
+  "age": 22,
+  "address": {
+    "street": "Adune Way",
+    "city": "Luiwuta",
+    "state": "RI",
+    "zip": "44876"
+  },
+  "contact": {
+    "phone": "(970) 384-6158",
+    "servicePhone": "800365886"
+  },
+  "birthday": "1997-10-19T01:01:53.392Z",
+  "ip": "78.219.96.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Zeh ciaja zum varki ud ojgowaw beaf gofso bowowrim fafavat lisevev gevo. Uto fet tasuzi sadjulta joghec do guco kubwarud notteto giifid zahri jutu oguku. Od sa nomva hudru deaji dorrisfe ubeenmod jonow toipi gajlu wu ruhhe ige riisamub zabcu. Nazhil kurezow mupachi ufewi cohec liw izisac bekzamo peibte ilfew mir sa.",
+    "bio": "Inefi idlu til zilurow witluhid ran fi cih fi vedar zicup gow tabus nurmu pofno cub magoz cambo. Cojvukju doenotow tof limefew zub waj ogaga lokrokje evoitkaw vac bivser azse. Iteho eghup woadi oc neel lenci ir dojmoap te vulaj bo inocuvcu guhakoro. Arwijem beog igcehkiw voduc cim jeven vasun divug ceeci ikhubzuj osobor hutwecev wobezepe dik sotho rum nom. Nuciv cicoksur for zefebu ileelfe cezsiuj biv cesgak wutewke haj ji gi watu nahlu vepor nuc sucus de. Ebutaz leivowe zuzawuk lik zil zucuwho ifa ku okez jahazwed car libnewdid paduz macit game ze ubzi lassebo."
+  },
+  "apiKey": "b641455076d22306f7ec62618e3958fcd2acc711ccdb2b06485f4600babb5464",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
