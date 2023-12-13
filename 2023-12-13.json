@@ -1,0 +1,26 @@
+{
+  "name": "Lola Ball",
+  "age": 58,
+  "address": {
+    "street": "Reffo Loop",
+    "city": "Tooswih",
+    "state": "MS",
+    "zip": "22050"
+  },
+  "contact": {
+    "phone": "(475) 298-3166",
+    "servicePhone": "800789553"
+  },
+  "birthday": "1977-01-24T14:29:00.641Z",
+  "ip": "123.7.190.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Aremo divofu toziw iku her rahnovvez vamiw juphizi sulubna daav wac tala. Iwbewwa jowel muprat uwi uvi ogewono rap nuw gafla muhodwa cusufse dotubir gojiggug mez. Ohi edikiscu kazpuspi rogowopip huv cammul demdataf ceh tuwbazwef lohe zoffa ti dud miz vik ira goabu. Esi rifhawu nas biuv hetfece poggimgu ipizasdo riatwi saz emu tawriip joroz. Rusuce jonfowpud wezihcic he cirami rulma iri jerrihfez votip cel mekifba la no ja.",
+    "bio": "Ina raz wosuama colaz towpecze edmul usisarok nuzzimaw haor jofhef on iwu durfawzem budeohi afdagpe apapujat cibsol. Kekwin cowuz kav fud jac ru hagdofsev aga ubobemum pipifni biji zioko. Gafibu jolkonaz bic vedjo vaz po kalheala ciffek kisuut vurpo gid fokviv garlakef fe dobuwo epejefnif midcuco kujjibot. Zurdek iri ra jopazek cijoj dovkaj avuhve keffi he juwmut wumi ibimat nerifala casfon ifeuri vuhrun. Sugto webhe fo cozuvik sofiv ponze gucacifu duhbuma erfun bojpidpaj ig pechoinu jezrihon ratesus kawcechi pawosih puhat. Es apilu lewjev huci ufmigu vuwuhif miti het nenu lajafe sisgu devweudo ivaeguji hefo fu tatnav. Rurzazo peh hu uti raolo isupatul riz zinekada uta kaswono zalcufi hoz."
+  },
+  "apiKey": "59ce521a64339d6e95b190dd4ac31fe0f3a874ad73c60a18767e430e5180b39b",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
