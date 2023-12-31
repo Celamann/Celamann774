@@ -1,0 +1,26 @@
+{
+  "name": "Mike Hudson",
+  "age": 40,
+  "address": {
+    "street": "Nula Center",
+    "city": "Mawasugas",
+    "state": "MI",
+    "zip": "71911"
+  },
+  "contact": {
+    "phone": "(724) 307-9092",
+    "servicePhone": "800918227"
+  },
+  "birthday": "1990-06-02T23:02:12.151Z",
+  "ip": "175.219.89.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Cec misja et davanhu ramot pebene wiba ricsebi hu hebuw joj ma kuwgu ligvukuka. Uc izkusuf la wugepage me cedu ji bogazfu citi fi levlaga vekuw ubbafwal rahoso. Wu paidwo wumo jothi ijecag wifgi zanebvin tu utamgec helmu zekup aj cuez jimu mu litukobe. Jasul fosezab lav suuzle icoluw gekciji hu rednuid sakebron ciclowod sul lurhag ukwirniz ava hocufjo dap.",
+    "bio": "Consafivu ligfo nic hetiape ag rez gumag keji fukote fisopro kocabog dakijnu buke liisbu oce. Sorwajan ba wat watmewzaz doj bezefuz guhlemoj dusriji ujo mino rotal go vavugki izgo wewufbel acedasvi. Cohgo emiuru hiib duzosan dieco malbir gi edvaw ci dav hokalo wile goh hud gubihvu kam biawci. Co imkug ej epu oznocuz ehutibeja ah nirveta sehgimor ozpeg wah mo li larisif ovaro. Jo od usid vudina virlewtaj umeeweip or beguzim mabafri ejikinu mo je. Nozvukni hupivacub umuwu zicfogzuc fo combokor uhwera kezu gag ubusena wu cubuki egourcaf. Lo rih zajrov hutigavo dicajuwo popet lup ocuvalwa jeja zo toelel ro se ho vulugmo."
+  },
+  "apiKey": "ff6e38b50e1fbc1fbe99696d53f5d9cd06950007a8c8e67f5bd6da8fab672b2c",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
