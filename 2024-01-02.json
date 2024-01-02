@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Webb",
+  "age": 47,
+  "address": {
+    "street": "Leja Pike",
+    "city": "Panoot",
+    "state": "VA",
+    "zip": "12158"
+  },
+  "contact": {
+    "phone": "(667) 254-3237",
+    "servicePhone": "800491271"
+  },
+  "birthday": "1994-04-02T23:00:07.212Z",
+  "ip": "103.205.227.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Dif loje igde ibahaf wamiw evugu nilsi amsoc vetfo inagem inpuhsi comjak pel huricas guvmeb. Buhukoh meel zub oreta zohat vazacto eto wici komo opev vi ejcof tuil kon. Lu ce janrozide iheaj piniavi fehoma al zupelek fowihuf diwgi faizi gapu. Do zogolcaw kuajzaz ofiz watasod wi ij alijivu zemiv fa bokivas musuradeg ureuvono ca sidsid. Gu bikeub civfiziw kiunulur par je gafohi uhzuf vevahiva opibi zuz nenlabme.",
+    "bio": "Elu soc kalorvo madcemjip si le ve ifazinda micazuse wadasukut kul setcudped talmoatu. Hafcan jutva bafej wadvo gosatwuc zerunti iluoralu mip ledbosi atecaccu amimulpiz zimi. Del ziaw akogi homo nurbesfal rakat iddu lo umoijepem deubo tu dabo ram itpu dusle ike."
+  },
+  "apiKey": "bbb34024ea103c38575ef3c91531056825e8d3db81576486ef91a0ff157a8df8",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
