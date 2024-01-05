@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Martinez",
+  "age": 33,
+  "address": {
+    "street": "Capu View",
+    "city": "Igufordaj",
+    "state": "AL",
+    "zip": "39698"
+  },
+  "contact": {
+    "phone": "(339) 375-2476",
+    "servicePhone": "800722631"
+  },
+  "birthday": "2006-04-21T16:06:09.491Z",
+  "ip": "105.46.76.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Gazedoni avgukkel uf bewampi woc apu huwir ni gesfofwi tod esoizlew hupe vati wogi soguw ahemamju zo. Suniul lehgifviv medales uv ratla kotsolaf dad buvrun el sa loizla behenki gebdu se hud melulome. Rur nuca sovvo bipiljak baduwaewu ji ubmo gepu gurukgo bij fidiw li ogagiz gi kuvis ane kidtium.",
+    "bio": "Kisseehe fo jelil sami iwdob pouki kuk oglu jupozicu tiflus redjumi jiule tac elmoble zaebebu et wow. Avaenehep otpapip nev belinnew giz zadedag age hekmarla duhat gozjipos rud hodej somolje ro gejpaezu. Odte fetro fobiv ne fucjecto miprij libti ebavag ostehut keipoki bib du."
+  },
+  "apiKey": "f2fa7c94a1765ecb827f671dc6fbc2e55772d98fe6639c11acd09ea5cd04e07c",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
