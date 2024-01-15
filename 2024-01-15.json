@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Estrada",
+  "age": 35,
+  "address": {
+    "street": "Nitu Drive",
+    "city": "Moricibed",
+    "state": "NJ",
+    "zip": "76086"
+  },
+  "contact": {
+    "phone": "(388) 398-8100",
+    "servicePhone": "800914444"
+  },
+  "birthday": "1960-11-20T19:05:34.012Z",
+  "ip": "37.215.155.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Dolitow zeb face mo diera ceusakoz durnip zuifefad leafa zejup rimvaso ijguda gisule. Eruhude vajezha kokec himev ji weg unu pilweruv wodu wuke maocu lisjeew ida lajdeada wowo bokecgac ma. Haljuhhuv su sa biib lo micaw lisamuhel ejsot vope iriciam po gedufipe covo wucbesedu viba laf birefje. Caru zamhor umufaflat avegoc tonij hulef ka dicev rig gofor ikcabim fusfon ciluloj gopwu fahakvek rawisuvil gijjovru fudo.",
+    "bio": "Kinmibbav adoacif jiuk ruwuj pi apir vojus maco otoul ajiacu az heven lesekmis rarozej. Pugcevun fekudo nafup ba nu laisuime ciodhe bateumo poz nu musikve ciw nozu cuhsod kabemi weglif vofineto. Hezepo irame bisajne ukevo giv rul robejmel kejohe polhewmot arpiggi lop in. Zerhutruk kuh jukim ela mugve usi majaho kevtomes sa repi oftaf lagop. Cecelu funocle lepuaz piluh iccuc gouse robzec obju dacezit fi rage fet miwuga igifoha civ."
+  },
+  "apiKey": "59b96c9515d7e4a70344ebbc71956a10ba6715e7fd7ef6c392fa3cb587b69c57",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
