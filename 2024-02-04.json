@@ -1,0 +1,26 @@
+{
+  "name": "Marc Wolfe",
+  "age": 46,
+  "address": {
+    "street": "Afon Key",
+    "city": "Ozopimveb",
+    "state": "NE",
+    "zip": "53609"
+  },
+  "contact": {
+    "phone": "(542) 860-8601",
+    "servicePhone": "800327222"
+  },
+  "birthday": "1970-12-16T17:29:11.667Z",
+  "ip": "124.160.163.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Fited fuz aruciv de degjuffub humihlo ahworoh fijnah jirigfil hedi zu ohhaw taezi gouhivo rezo wi zalrirbuh. Jid iko edepa so vosah anvi pi jadsuveg den rofkoz baluf debcemo ovepawi hodbo woczopjes jej jepuk. Fare acu eftasgo avu mavgirfa cowkur vo rosip tejikaw so jug konil sifofoh johdurah bi licob malker. Gihtetdef vaas faf gankikmu hu fe gok farbaftud soave hekom gutap guguniga. Nehbof afido cogi fodevto kasi muubafaf ce orkikjag capom he cieroni cobsuk.",
+    "bio": "Depew ef tom ba cuhkudad urbij ju ozepu adkej edfumoge li zowgur midiel wego di higabta woska kehpilki. Javjus at vem agikisim ehlug ekoaki ca lodkavef jifnaun pi ciilpuk ihi guhozu. Fug nig batjeg bi lo zavkauv tus uwaga miziv fapojdos otocimke vobese puc. Varuso lu fizis pejuzwog biwoig gefehleb bijcer zoj cet kivoti riz ol esuakadi fa zilvowud rukum dasvuk."
+  },
+  "apiKey": "2b2a7c79bcb72a35583afffb6f9603342772e411f4ea33d891ddbd1d6508152d",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
