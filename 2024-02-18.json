@@ -1,0 +1,26 @@
+{
+  "name": "Bradley Frank",
+  "age": 45,
+  "address": {
+    "street": "Ofahi Square",
+    "city": "Anuadeni",
+    "state": "ID",
+    "zip": "11695"
+  },
+  "contact": {
+    "phone": "(916) 384-4747",
+    "servicePhone": "800588155"
+  },
+  "birthday": "1972-05-24T02:25:18.484Z",
+  "ip": "165.236.251.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Ami mezaki lunolgi gine doramosoz nuwume cecta ijugap goesan uwnuom usvevivi kemtel va sawa mujwelu li. Za ziw lazvo hustam mor iroret deomhe podah lacvi ka ata seczazag bowovvar juj cuguc sabo. Wavmib uwi duwu ezo sezrab nowica sa jidjiefo fib gi wa celmat. Ho zoto coc zubcevme nunhimow sugricto beb venez jiveh mu aluufi muhovmum jake.",
+    "bio": "Nuv tuvuvfi evad no zare luuka hurec sarhiwkam zonapuno iside ca movjadbo kihwusnaw wu ziebebu irbokruk resafo. Lermuj nokwiv mujmu mo do funmoej tepfow pehro jeefuew ofiha kij fo ra. Bowno tivrenlo kor toas be so bojahbe papinola senid akuihtov arkijhi jo obouz ahjicvo alo liadpe. Lusjura cadofe tumtab def ceif howe sioh bued adalihi cif vuzu id bu vo lercirkot bun boeve. Vohozof bimten kibhuncek gaoh rehfasfuf bifir lef doluofu kichehog ohlabwak inhuj koki ninpieg. Ce mongabnel gokov fucaz to ajupiful oniviil deupo di oromikre futip vub hatawad uc dilzusi."
+  },
+  "apiKey": "a5dbd54698504d6ae060f8bd1316b07ba6cfdeaf6b0e0df043ff58652aac0d66",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
