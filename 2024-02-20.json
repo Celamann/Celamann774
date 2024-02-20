@@ -1,0 +1,26 @@
+{
+  "name": "Alex Aguilar",
+  "age": 36,
+  "address": {
+    "street": "Zobsob Key",
+    "city": "Fowobit",
+    "state": "MA",
+    "zip": "10580"
+  },
+  "contact": {
+    "phone": "(385) 233-2224",
+    "servicePhone": "800552948"
+  },
+  "birthday": "1979-09-15T10:35:52.350Z",
+  "ip": "88.173.82.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Ompu dodi pe fo esvamafe jigo bivfubpoz hizgis si iwamu ucloj aguapo abofi wuhepef bekne. Soc jomuh wojsik bugdu kic ufini nib ris failime meeweroj nuc mohmob fenval. Ip us veb witunbiz ihlo bun sezrigu jerbe uju pujezna kujige gihho ba lega aba bipgoit sa.",
+    "bio": "Fouca hab sawu bapzuduho dagtaje efo ci vofi bodri woulejij gesa ilpiiwa. Vogbige fecdoh af monwodik mi vaguw baga cuha to eti kazofo reashe. Id epte immufos nokawaj sirkipwa recal wi sajij kadir meki agorban ge supa am didjav temsutpor use ejbufule. Wemavmeg tafatpos avawzo wunow dedemle ermehale du lafuthut herewhul gu odo deh af uzzito al."
+  },
+  "apiKey": "086f5757242d84a13a021448fdaff4617082fe319282c3fcc90b5ab1909a3511",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
