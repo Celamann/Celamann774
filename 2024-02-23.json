@@ -1,0 +1,26 @@
+{
+  "name": "Leo Ortiz",
+  "age": 62,
+  "address": {
+    "street": "Fazim Pike",
+    "city": "Wognoti",
+    "state": "MA",
+    "zip": "97797"
+  },
+  "contact": {
+    "phone": "(449) 247-8133",
+    "servicePhone": "800495852"
+  },
+  "birthday": "1963-03-11T09:30:39.794Z",
+  "ip": "162.150.238.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Nudevus ubu hafnuhuma go mi ga nem dut nesovcu getvas jaet vuccipro. Bateca ugtoj pilufaoj wak kajaus it puhewu itaujmos wodiw tov hos lak injewwas hubpof rup. Mo zita hof mon haet uzgihez ohof baeb nu cic segadesuz kuw famole cesetuig kelkut ecwukmut fune oco.",
+    "bio": "Zifo raube aromo jevce iv tic teeci cok armasses wulob uzji ipuhipo. Gila wel setub vu dagwa azifujer towgez kekdepek jes jiduv nuru keccu tiajca. Ri nelnier sood guzoros ge julunvib ossebuso bajimbi agisajbif mudawe ihwoni uku howlupbu samco da. Ufonu pecitde ratfesfuw litgahbi je kujo zochombi muhed mu elojusu luvsakhiw zihezvap ceuwunid bap mik uno sofu. Ko neaveso adfedaf bozamaj devace ega higa ler zav hek so nobfopur amtaboc."
+  },
+  "apiKey": "1f2224d4541a7c1a97baf2c2e4cc210b99b55ee6ed8beaa5920acec68dcd0479",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
