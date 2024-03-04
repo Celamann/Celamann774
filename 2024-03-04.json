@@ -1,0 +1,26 @@
+{
+  "name": "Christian Nguyen",
+  "age": 65,
+  "address": {
+    "street": "Fewgi Avenue",
+    "city": "Poudeese",
+    "state": "KS",
+    "zip": "30371"
+  },
+  "contact": {
+    "phone": "(700) 613-6713",
+    "servicePhone": "800798136"
+  },
+  "birthday": "1962-12-26T17:48:06.103Z",
+  "ip": "237.87.176.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Nomupig iwoho zuz go fu rakub ufefu pipte tu ih alibo seug ipaheti. Ovowutob ulumurpuk gubga wohegez gu piv urabun tedahe tafco fertibe uhodera gelopa. Bihwi ni fugavadom jo gi cos puim kikav row isfo cu giblowe wad.",
+    "bio": "Weevsap so mutacnet hom fon wugmafhu uwamubkig vawevi seatudig ma ejaguz pu biudu uco. Damejgu cir ijsih ted anbu mephikwid cic ru ujil hosijoro bu vovij bigmib siacozu. Ru atkelu al nekonit un vuj era unwaalu cici kig dopevonuh talem ibonazek. Wauco garig cata norsunfa paw va le ham ak coarahu ruihuzik niij obohallo jez ovu pipcurub du kuimofi."
+  },
+  "apiKey": "f7c28e7d306d121add6e7e5a5e2fafa422df6fc71c3045e107f8a191c80810c7",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
