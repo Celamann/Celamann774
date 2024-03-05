@@ -1,0 +1,26 @@
+{
+  "name": "Belle Smith",
+  "age": 36,
+  "address": {
+    "street": "Vaira Highway",
+    "city": "Dugatvol",
+    "state": "KS",
+    "zip": "90200"
+  },
+  "contact": {
+    "phone": "(909) 859-1279",
+    "servicePhone": "800189238"
+  },
+  "birthday": "1986-07-23T23:43:23.156Z",
+  "ip": "127.36.140.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Gukarag ki puztubi mew lodu foec duz bage web sojjobam ni muwrepo biodhut bivi nupejo bemdu uj keb. Dijik ne ti bo toridkal geow gor ti nippe davjic ol osarozuja egbabew ju uzamoh lasjo. Hedumno paptonfo dov di ihuhiet izdahip isu fir ub ti ohazire uwiguwud. Kiig ena nijor babmamnu ecku esa fawfibda wef cinmoba civvij zag uj malzi otaw.",
+    "bio": "Or fo ko se nocpohhid heejo ho ku zuormuz arled rig evu mahro ok gug tout. Poz supo zuc gahe ik maotozev mejad rohib teonopen ukoowa tifadede zalo. Kum gunbad owavenu cu dih kig rarkuifi batim dekvofu lemhofo teobele mezerdib kafwo powesora jamus hezedrig. Avo donzuka fuibban anipawov izefueb pahovek ci ceziz vala sim om setiro duhbuv sokbas ba rilvevpak nucma palzuab. Upu rep hu ji jud ande hal wo aku vuwab ehifeg raroaw juc ga zu rasuc. Zuvgi kabun bi rupuvove pipazluw dud cusi ruldo cilsimu cumvap maf cejo baj zunfajubu pus isezov."
+  },
+  "apiKey": "d4f13d0fde052d3dd391484f4f116d7304f6bb4a082e1ba92ba9d79451c8b033",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
