@@ -1,0 +1,26 @@
+{
+  "name": "Calvin Turner",
+  "age": 42,
+  "address": {
+    "street": "Odmek Drive",
+    "city": "Nivalsab",
+    "state": "NJ",
+    "zip": "99965"
+  },
+  "contact": {
+    "phone": "(774) 832-2015",
+    "servicePhone": "800859182"
+  },
+  "birthday": "2000-07-04T12:19:38.763Z",
+  "ip": "84.170.109.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ganumaj muber hik gansache nilbole resnec kuk kigara tugwiteg gec jonvol ojuwel windujku me has tecigar wodtuk mo. Og asbuna devvudbi lejduto irtujjo esa utvumluf gi vihpi zofli kirikuger uri meg zutek. Baopi nislelu ca hapbehkan fu guk pe zudafju veomi ehsatwi lo dikohu ruvtef ukguhak bi vin. Adfoz sat ikane no sodo peviw wovar raatdi ovuwotjin hi ragvi suj bob da.",
+    "bio": "Pi gakursad gesekowag du avpozam rivi ovurtuf pavmujven ojgo civwe haf zoreip nimow. Bakgi kufem zebunpes heh zisi vowlagla ofnurwef amu emiopa rudfivoc vona dav seazano jenaej eb pubnoj rahephe. Riwimohe raas rog lob bocedgiw mevo ude wa finzog tipmosuhe abo jabpiko woir uputi piaca hem. Uste peujwah cuv fe jidivuhal vujawa wuslup wolmeh go fuulaed cobeb nuw. Ozha wipeza vi ime duja loc ah watkip meehetas jo uwi tocanepe zalama woum ono gar nodjusru. Bohib rulof jafa cewutno vih ba alihurte naeso rapapik uze wuj su zonok kosa oli uce."
+  },
+  "apiKey": "4204726521cdd8b468ab3c1e726b4c4303df7f8e93de4bd5895a172ee0bee889",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
