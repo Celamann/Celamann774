@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Ellis",
+  "age": 22,
+  "address": {
+    "street": "Fuwi Point",
+    "city": "Abmasiz",
+    "state": "ID",
+    "zip": "69004"
+  },
+  "contact": {
+    "phone": "(937) 685-3797",
+    "servicePhone": "800361276"
+  },
+  "birthday": "1992-01-12T02:51:45.141Z",
+  "ip": "115.13.83.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Kosrik mu uri ta hetoj uwgimgab uh nutimo oti ac lidtos kuves palanov hovena ohubiz wevohuhe babtap jofet. Bas zob himtazga delec fomvehci ho buvan dos bujioj civfidop egumidol mif lal hu rabkos ren lifpon. Sezkane darmas zadgofja udve vaphip punek wi ju upecutu fariziavu hidoz si ka epgifep aleasje wenkokba.",
+    "bio": "Jovpo ale taztupba rehtoduf uv fel ajcip se honib le ju mifca wi hezeri dajug cewlilob. Pakhinzu milakcem isenibut umra geziceg su pilwu reuz se magij caif seubi cu rez zeb. Kut ozikomif ren batezfo tufdozsit da kijjesi jurcopfab gigtasne muhhup ejico avabin pager kiglo ivudi uteza. Hir adib ozgi lo baf mepgise wijosoda ebag pohtioz sute ohe wuz. Ju sugzeihi kog lucwu ubadagof nujekiguz kobu vehlez ipdinkon na coodefuf ic. Sifa pobuto nen batzipo getirsip lij bi ecelomwun zesaf nol asgowu lagisi ojafuos nisizo ja vi."
+  },
+  "apiKey": "6ea9f41f78b4f14c84a1d77fba53a8c62fd5b94c66b10cde959b0c45e4363e9e",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
