@@ -1,0 +1,26 @@
+{
+  "name": "Olive Gibson",
+  "age": 23,
+  "address": {
+    "street": "Etife Drive",
+    "city": "Tebomale",
+    "state": "ND",
+    "zip": "83255"
+  },
+  "contact": {
+    "phone": "(916) 220-7011",
+    "servicePhone": "800841821"
+  },
+  "birthday": "1970-10-03T14:12:23.355Z",
+  "ip": "39.161.107.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiva jitazwo rodem ag vir ic viznom luk emru sorousi aroimuhit wotosjo pa besale beifo meitbi. Nevteb keewiucu pec hi wojunuas emlom woz jigekod or uviri ri nek ozanu ugi risgom jivvidpeg cocotafi rewokhu. Beg ge kumohfez latuc ucvijtu mon uvmermuh idvif keb dukjupa we vosit ekwo. Uvuraccek difpetil av on woiji beisrep ji zefkugu mocnis lopihni ve fa.",
+    "bio": "Julaha navewra gar niido ed fakpu ipwu beg avojucu te hebap huhru joknavlu biro pecure we ebanid. Hafnekez hicka dob eh fi oho zudam facowsew suoluwis oco ofbamtin ridas zofeka zinpuiwi fobo ri kikhimon vufuga. Ini ed zohan iwemi mo fe cih ocunudpab gimusu sifulade izziset sapa jiwufur ud jur zir refigen. Cerofene zomtapjeb cuvi wutros no manboce zavenwop fupja vompazcap pud epiz rulnos bur ca ohuocesi lu vohgacu gusefdog. Ubulojoj nudkev apgafhu lo tahdapo oweromaf fu tejzosoh lume eha reti fewlobdar hudebtep rihod jerkigac oblac jozagob. Gedmo zejpuv oc jimmo re iwlogco wulgi boki wemonon malvaev le felvebgu litofuj."
+  },
+  "apiKey": "be2351d1aa3d0f6eca873af8ea70ddc519e8fa8b3973cdc4faa9ef15b524af33",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
