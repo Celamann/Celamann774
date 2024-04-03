@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Greer",
+  "age": 40,
+  "address": {
+    "street": "Ciib Mill",
+    "city": "Wechapo",
+    "state": "FL",
+    "zip": "46379"
+  },
+  "contact": {
+    "phone": "(912) 510-1047",
+    "servicePhone": "800194731"
+  },
+  "birthday": "2002-03-01T09:42:33.292Z",
+  "ip": "123.81.79.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Vunlu hufi biimaij ilelomada bigeweg hog teleckub fuffegse ju vis ceukjip peribiade sobuum ehuaz jaf mackavuf. Jit enniace fubowav sasnep tup nikistiz nug jig vieti fecen odoali lozgi begbamgob ta wafa icica zafim. Halmo tego moakuv fovcu mud hovilpe ruvzahte miun gu relfoz doflekgid juti tinih dahewok. Zurcucu diivri iwu teel ki balod luviwat za kememkij vefhajij bi jopdeg jehlempo juag ca. Agigcen lupane idaudis jojdet kopuce nop telfehvu kunulnad hujfo du gab uhuaki citomotu kugfuvja hov gahu rosbaboju. Gohlulho cikuta ekogak rumvewozu kok gujufuiju po he tibtalgeg bapu ar celru me ida bocbi tewumbon faluhuz.",
+    "bio": "Jabja mozzezbo baprec waze feksed diiga kagetaes gefricnir huhdova racovi tej wa nagcuwe. Rivo ojecub huz jib ajofa fiwkoki se dejnic dogtuf bodu rewesumiv nilu vo taliowo hali vezeip. Owuro punhahud fo dub japogi sega ef tuda padugpo lemetugi nofsohvip kef dejraata cigsudla izaizdim za awmu avu."
+  },
+  "apiKey": "3e752d5db0f372b1c2a2714d64b943f03836f3941303309baeed2e8d09ef3867",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
